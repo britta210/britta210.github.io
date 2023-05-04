@@ -373,6 +373,15 @@ nav a {
     text-align: justify;
 }
 
+.herrmannsimg {
+    margin-top: 30px;
+    width: 100%;
+    background-size: cover;
+    aspect-ratio: 46 / 27;
+    background-image: url(images/herrmannsweinstyleguide.jpg);
+}
+
+
 .kontakt-img {
     width: 100%;
     min-height: 100px;
@@ -456,6 +465,7 @@ nav a {
         text-align: center;
     }
 
+    
     .faq-container {
         flex-direction: column-reverse;
     }
